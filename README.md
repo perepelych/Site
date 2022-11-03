@@ -1,3 +1,5 @@
+theme: Midnight
+
 # Site fo perepelych
 
 ## Информация:
